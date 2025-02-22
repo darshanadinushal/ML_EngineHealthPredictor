@@ -1,4 +1,4 @@
-# 🚗 Engine Health Predictor
+# 🚗 Smart Engine Monitoring System
 
 ## 📌 Overview
 The **Smart Engine Monitoring System** is a Machine Learning-based system designed to analyze engine diagnostic trouble codes (DTCs) and predict engine health conditions. By leveraging historical error occurrences, engine operating hours, and system statuses, the model provides insights into potential faults and maintenance needs, reducing downtime and improving vehicle efficiency.
