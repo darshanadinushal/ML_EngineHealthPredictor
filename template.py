@@ -35,7 +35,10 @@ other_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
-    "templates/index.html"
+    "templates/index.html",
+    "src/common/__init__.py",
+    "src/common/exception.py",
+    "src/common/logger.py"
 ]
 
 for project_name in project_names:
